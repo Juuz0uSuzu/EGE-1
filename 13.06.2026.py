@@ -1,0 +1,3 @@
+#pierwsza
+"""dru
+ga"""
