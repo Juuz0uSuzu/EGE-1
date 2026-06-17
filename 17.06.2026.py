@@ -205,3 +205,4 @@ import math
 #55
 # x=(-int('1B', 16) +int('67', 8)) / 4
 # print(x)
+#koniec zajecia
