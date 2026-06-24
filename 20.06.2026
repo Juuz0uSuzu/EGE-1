@@ -1,0 +1,136 @@
+#3840*2160
+#224
+# 1pixel=24бита
+#h=2160
+#w=3840
+#i=24
+#V=h*w*i
+#print(V)
+#199065600 бита
+#memory_card=16*2**33
+#print(memory_card)
+#137438953472 бита
+#images_per_card=int(memory_card/V)
+#print(images_per
+
+
+
+
+#k=2
+#t=120
+#i=16
+#n=56000
+
+#V=2*120*16*56000
+#print(V/32000)
+#6720
+
+#Формула Хартли i=log2N
+#import math
+#h=768
+#w=1024
+#i=log2(2**30)
+
+#h_2=600
+#w_2=800
+#i_2=log2(2**28)
+
+#num_img=100
+
+#memory_size= h*w*i
+#memory_size_compressed=h_2*w_2*i_2
+
+#ans=((memory_size-memory_size_compressed)*100)//2**13
+#print(ans)
+
+
+#import math
+#l=7
+#N=26+10
+#other=9
+#users=30
+#i=math.ceil(math.log2(N)) #бит
+#I=math.ceil((l*i)/8) #байты
+#I_30=(I+other)*users
+#print(I_30)
+
+#import math
+#l=5
+#N=10+7084
+#users=22528
+#i=math.ceil(math.log2(N))
+#I=math.ceil(l*i/8)
+#I_all= I*users/2**10
+#print(I_all)
+
+
+#import math
+#N=26+2013 + 10
+#I_2050=709*2**10
+#ids=2050
+#V= >709 #КБАЙТ
+#i=math.ceil(math.log2(N)) #12
+#I=math.ceil(I_2050/ids)
+#L=math.ceil(I*8/i)
+#print(L)
+
+
+# >< <= >= == !=
+# and or not
+#num = 2
+#if num < 0 or num > 2:
+#    print("Dzien dobry")
+#elif num == 1:
+#    print(4321)
+#elif num == 2:
+#    print(4321111)
+#else:
+#    print("Hi")
+
+#не выполняется при нуле
+#if 0:
+#    print("раз")
+#не выполняется, если строка пустая
+#if "hello":
+#    print("два")
+#не выполняется, если нет элементов внутри
+#if [0]:
+#    print("три")
+
+#num = int(input())
+
+#a=num//100
+#b=(num//10)%10
+#c=num % 10
+#print(a, b, c)
+
+num=int input()
+
+#a=num//100
+#b=(num//10)%10
+#c=num%10
+#print(a, b, c)
+#if (a%2==1 and a !=9) or (b % 2 ==1 and b!=9) or (c%2==1 and c!=9):
+#    print(num)
+#else:
+#    print("Не содержит цифр 1 3 5 7")
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
