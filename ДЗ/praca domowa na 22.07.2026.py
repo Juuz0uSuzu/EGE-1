@@ -34,3 +34,5 @@
 #         count += 1
 #     num = num // 27
 # print(count)
+
+#Ответ - 2687
