@@ -2,8 +2,6 @@
 # abcd defg ghij
 # Напишите программу, которая удаляет из исходной строки повторяющиеся символы и пробелы. Множества не используются.
 #
-from tkinter.font import names
-
 # s = "abcd defg ghij"
 # s_without_spaces = s.replace(" ", "")
 # result = ""
