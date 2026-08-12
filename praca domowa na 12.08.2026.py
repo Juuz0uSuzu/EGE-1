@@ -10,7 +10,17 @@
 # идущих одинаковых элементов (т.е. длину максимального блока одинаковых подряд элементов).
 #
 
-# t=tuple(input())
+# max_len = 1
+# cur_len = 1
+# t=(1,10,10,10,2,2,3,4,20,1)
+#
+# for i in range(len(t)-1):
+#     if t[i] == t[i+1]:
+#         cur_len += 1
+#     else:
+#         max_len = max(max_len, cur_len)
+#         cur_len = 1
+# print(max_len)
 
 
 
