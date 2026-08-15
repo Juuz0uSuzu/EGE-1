@@ -28,25 +28,19 @@
 #     print("@@@@@")
 #     a+=1
 
-# ***
+#  ***
 # * * *
 # ** **
 # * * *
 #  ***
 
-# for a in range(0, 3):
-#     print('*', end='', sep='')
-# print()
-# for a in range(0, 3):
-#     print('*', end=' ', sep=' ')
-# print()
-# for a in range(0, 2):
-#     print('**', end=' ', sep=' ')
-# print()
-# for a in range(0, 3):
-#     print('*', end=' ', sep=' ')
-# print(' ', end='')
-# #?
+# for i in range(5):
+#     for j in range(5):
+#         if i == j or i + j ==4:
+#             print(" ", end="")
+#         else:
+#             print("*", end="")
+#     print()
 
 
  #   +
@@ -55,4 +49,11 @@
  #   +
  #   +
 
+# for i in range(5):
+#     for j in range(5):
+#         if i == 2 or j == 2:
+#             print("+", end="")
+#         else:
+#             print(" ", end="")
+#     print()
 
